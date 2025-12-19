@@ -14,6 +14,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 }
 ?>
+    //Macoy was here
 <!DOCTYPE html>
 <html>
 <head>
@@ -40,6 +41,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             color: #1e40af;
             font-weight: 500;
         }
+        //Macoy was here
         .form-control {
             border-color: #bae6fd;
             background-color: #f0f9ff;
